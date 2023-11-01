@@ -347,7 +347,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "156": {
                 "name": "akshay trivedi",
                 "subject": "History    maths      bio     drawing",
-                "marks": 82    125       147        78          45,
+                "marks": 45,
                 "remarks": "Very Good"
             }
         };
