@@ -345,7 +345,7 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             
             "156": {
-                "name": "Emma Johnson",
+                "name": "akshay trivedi",
                 "subject": "History",
                 "marks": 82,
                 "remarks": "Very Good"
